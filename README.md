@@ -15,3 +15,4 @@ Repozytorium zawiera wszystkie obowiązkowe i niektóre dodatkowe rozwiązania z
 * LAB09 - Detekcja krawędzi Canny
 * LAB10 - Przekształcenia morfologiczne.
 * LAB11 - Transformacja Hougha.
+* LAB12 - Segmentacja obrazów.
