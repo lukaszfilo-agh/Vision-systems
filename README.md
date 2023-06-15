@@ -16,3 +16,4 @@ Repozytorium zawiera wszystkie obowiązkowe i niektóre dodatkowe rozwiązania z
 * LAB10 - Przekształcenia morfologiczne.
 * LAB11 - Transformacja Hougha.
 * LAB12 - Segmentacja obrazów.
+* LAB13 - Indeksacja. Współczynniki kształtu.
