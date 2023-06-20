@@ -17,4 +17,4 @@ Repozytorium zawiera wszystkie obowiązkowe i niektóre dodatkowe rozwiązania z
 * LAB11 - Transformacja Hougha.
 * LAB12 - Segmentacja obrazów.
 * LAB13 - Indeksacja. Współczynniki kształtu.
-* LAB14 Klasyfikacja znaków drogowych z wykorzystaniem DCNN
+* LAB14 - Klasyfikacja znaków drogowych z wykorzystaniem DCNN
